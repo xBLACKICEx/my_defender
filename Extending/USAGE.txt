@@ -1,0 +1,3 @@
+this game is 'base on duck hunter'
+to know more about you can luanch game and click hellp
+to luanch game do -> ./my_runnter
